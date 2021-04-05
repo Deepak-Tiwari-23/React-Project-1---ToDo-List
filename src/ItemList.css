@@ -1,0 +1,21 @@
+.itemBar{
+    display: flex;
+    margin-top: 10px;
+}
+
+#dltbutton{
+    color: white;
+    padding: 0px 11px;
+    margin-top: 3px;
+    margin-right: 5px;
+    background-color: darkturquoise;
+    border: none;
+    border-radius: 28px;
+    font-size: 25px;
+    font-weight: bold;
+    outline: none;
+}
+
+#dltbutton:hover{
+    background-color: rgb(235, 34, 34);
+}
